@@ -1,1 +1,1 @@
-# Remote-Desktop-Control-Application
+Developed a full-fledged remote desktop system that enables real-time screen sharing, mouse movement, click events, and keyboard control over a network. Built a client-server architecture using Python socket programming and multithreading for simultaneous screen transmission and input handling. Used OpenCV for frame rendering and PyAutoGUI for seamless input replication, ensuring smooth remote interaction.
